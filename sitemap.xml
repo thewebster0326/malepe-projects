@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url>
-    <loc>https://thewebster0326.github.io/malepe-projects/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>1.0</priority>
-  </url>
+  <url><loc>https://thewebster0326.github.io/malepe-projects/</loc><changefreq>monthly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://thewebster0326.github.io/malepe-projects/about.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://thewebster0326.github.io/malepe-projects/services.html</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://thewebster0326.github.io/malepe-projects/building.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://thewebster0326.github.io/malepe-projects/paving.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://thewebster0326.github.io/malepe-projects/painting.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://thewebster0326.github.io/malepe-projects/plumbing.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://thewebster0326.github.io/malepe-projects/tiling.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://thewebster0326.github.io/malepe-projects/renovations.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://thewebster0326.github.io/malepe-projects/maintenance.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://thewebster0326.github.io/malepe-projects/garden-services.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://thewebster0326.github.io/malepe-projects/projects.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://thewebster0326.github.io/malepe-projects/contact.html</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
 </urlset>
